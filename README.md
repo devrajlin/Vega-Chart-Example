@@ -1,4 +1,4 @@
-# Javascript Box Builder
+# Vega Chart Example
 
 ```
 
